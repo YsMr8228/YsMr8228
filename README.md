@@ -1,7 +1,7 @@
 - Hi, I’m @YsMr8228
 - Japanese student (17yo)
 - Studying C, C++ and python.
-- 
+
 - contact:ysmr82prog@gmail.com
 
 <!---
